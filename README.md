@@ -51,3 +51,9 @@ This project demonstrates clean code architecture with proper file separation, m
 - **Handling errors gracefully with custom exceptions**
 - **Structuring Java projects for scalability**
 
+## 📅 Future Improvements
+- **Add file/database storage for persistent data.**
+- **Implement flight seat availability tracking.**
+- **Add GUI interface for better user experience.**
+- **Include ticket cancellation functionality.**
+
