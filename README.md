@@ -32,7 +32,16 @@ This project demonstrates clean code architecture with proper file separation, m
    ```bash
    git clone https://github.com/yourusername/airline-management-system.git
 2. Open in your IDE (e.g., IntelliJ, Eclipse, VS Code).
-3. Compile and run Main.java.
+3. Compile the .java files:
+   ```bash
+    javac *.java
+
+
+
+4. Compile and run Main.java:
+   ```bash
+   java Main
+
    
 ---
 
