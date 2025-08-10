@@ -31,7 +31,8 @@ This project demonstrates clean code architecture with proper file separation, m
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/airline-management-system.git
+   git clone https://github.com/harshwardhan1433-debug/Airline-Management-System-Java-OOP-Project.git
+
 2. Open in your IDE (e.g., IntelliJ, Eclipse, VS Code).
 3. Compile the .java files:
    ```bash
