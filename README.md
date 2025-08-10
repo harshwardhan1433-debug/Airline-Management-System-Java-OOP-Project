@@ -57,3 +57,11 @@ This project demonstrates clean code architecture with proper file separation, m
 - **Add GUI interface for better user experience.**
 - **Include ticket cancellation functionality.**
 
+## 👨‍💻 Author
+- **Harsh Wardhan**
+- **Computer Science Undergraduate**
+- **📧 Email: harshwardhan1433@example.com**
+- **🔗 LinkedIn Profile : www.linkedin.com/in/
+harsh-wardhan-065254378**
+
+
