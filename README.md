@@ -40,7 +40,7 @@ This project demonstrates clean code architecture with proper file separation, m
 
 4. Compile and run Main.java:
    ```bash
-   java Airlinesystem
+   java AirlineSystem
 
    
 ---
