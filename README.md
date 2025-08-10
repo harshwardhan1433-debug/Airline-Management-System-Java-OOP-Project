@@ -61,7 +61,6 @@ This project demonstrates clean code architecture with proper file separation, m
 - **Harsh Wardhan**
 - **Computer Science Undergraduate**
 - **📧 Email: harshwardhan1433@example.com**
-- **🔗 LinkedIn Profile : www.linkedin.com/in/
-harsh-wardhan-065254378**
+- **🔗 LinkedIn Profile : https://www.linkedin.com/in/harsh-wardhan-065254378/**
 
 
