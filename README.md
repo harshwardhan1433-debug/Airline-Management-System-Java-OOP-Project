@@ -1,5 +1,6 @@
 # Airline-Management-System-Java-OOP-Project
-A Java-based project to manage flights, passengers, and tickets using OOP concepts, Java Streams, and custom exceptions.
+A simple **console-based Java project** that manages **flights, passengers, and tickets** using **Object-Oriented Programming (OOP)** principles, **Java Streams**, and **custom exceptions**.
+
 # ✈ Java Airline Management System
 
 A **Java-based Airline Management System** built using **Object-Oriented Programming (OOP)** principles, **Java Streams API**, and **Custom Exceptions**.  
